@@ -24,7 +24,7 @@ This repository contains a curated list of Open Real Estate APIs, data sources, 
 ### 1.2 Building, Dwelling, and Address Registers
 
 - [Federal Register of Buildings and Dwellings (GWR / RegBL / RegEdi)](https://www.bfs.admin.ch/bfs/en/home/registers/federal-register-buildings-dwellings.html) – Official BFS register containing buildings, dwellings, entrances, addresses, construction projects (EGID, EWID, EDID identifiers).
-- [housing-stat.ch (GWR portal)](https://www.housing-stat.ch/en/home.html) – Public GWR portal with online access for authorised users and Level A (public) data.
+- [housing-stat.ch (GWR portal)](https://www.housing-stat.ch/) – Public GWR portal with online access for authorised users and Level A (public) data.
 - [GWR public eCH-0206 XML endpoint](https://madd.bfs.admin.ch/eCH-0206) – Public XML endpoint to retrieve GWR Level A data by EGID (example: `https://madd.bfs.admin.ch/eCH-0206?egid=20`).
 - [GWR on opendata.swiss](https://opendata.swiss/de/dataset/eidg-gebaude-und-wohnungsregister-gebaudestatus) – Publicly available GWR Level A data (building status, addresses, geometries).
 - [Swiss Official Commune Register](https://www.agvchapp.bfs.admin.ch/) – Register of all Swiss commune names, numbers, and historic mutations.
@@ -34,7 +34,7 @@ This repository contains a curated list of Open Real Estate APIs, data sources, 
 - [swisstopo geo.admin.ch API REST Services](https://api3.geo.admin.ch/services/sdiservices.html) – REST API for federal geodata: identify, search, height, profile, and feature services.
 - [geo.admin.ch WMS / WMTS Services](https://www.geo.admin.ch/en/programming-interface-api) – Map and tile services for all federal geodata layers.
 - [swisstopo REFRAME REST Web API](https://www.swisstopo.admin.ch/en/rest-api-geoservices-reframe-web) – Free coordinate transformation services between WGS84, LV03 (CH1903), and LV95 (CH1903+).
-- [Cadastre.ch – Swiss Cadastral System](https://www.cadastre.ch/en) – Official portal for the Swiss cadastral system (official survey, land register, ÖREB/RDPPF cadastre).
+- [Cadastre.ch – Swiss Cadastral System](https://www.cadastre.ch/) – Official portal for the Swiss cadastral system (official survey, land register, ÖREB/RDPPF cadastre).
 - [Cadastre of Public-Law Restrictions on Landownership (ÖREB / RDPPF)](https://opendata.swiss/de/dataset/cadastre-rdppf) – Federal cadastre of public-law restrictions (zoning, building lines, noise levels, groundwater protection).
 - [Terravis (SIX)](https://www.six-group.com/en/site/terravis.html) – Inter-cantonal electronic portal for land registers, ÖREB cadastre, cadastral survey, and GWR data (for authorised users; B2B).
 - [geocat.ch](https://www.geocat.ch/) – Federal geo-metadata catalogue.
@@ -48,9 +48,8 @@ This repository contains a curated list of Open Real Estate APIs, data sources, 
 ### 1.5 Energy and Sustainability
 
 - [GEAK / CECB – Cantonal Building Energy Certificate](https://www.geak.ch/) – Official Swiss energy efficiency certificate (classes A–G) for buildings, with public registry.
-- [Minergie](https://www.minergie.ch/en/) – Swiss standard for sustainable, energy-efficient buildings and certification database.
-- [SNBS – Standard Nachhaltiges Bauen Schweiz](https://www.snbs.ch/) – Swiss Sustainable Building Standard.
-- [SNBS Certification](https://www.snbs-cert.ch/) – Online certification tool and manual for SNBS.
+- [Minergie](https://www.minergie.ch/) – Swiss standard for sustainable, energy-efficient buildings and certification database.
+- [SNBS – Standard Nachhaltiges Bauen Schweiz](https://nnbs.ch/snbs/) – Swiss Sustainable Building Standard.
 - [SFOE / BFE – Swiss Federal Office of Energy](https://www.bfe.admin.ch/) – Federal Office of Energy: statistics, geodata, and building-relevant energy datasets.
 - [KBOB Plattform Ökobilanzdaten im Baubereich](https://www.kbob.admin.ch/kbob/de/home/themen-leistungen/nachhaltiges-bauen/oekobilanzdaten_baubereich.html) – KBOB life-cycle assessment data (eco-indicators) for construction materials and building systems.
 
