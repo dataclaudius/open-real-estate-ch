@@ -102,27 +102,21 @@ This repository contains a curated list of Open Real Estate APIs, data sources, 
 ### 2.2 Property Valuation and Market Analytics APIs
 
 - [PriceHubble API Documentation](https://docs.pricehubble.com/) – Property valuation, market analytics, ESG, and forecast APIs (Switzerland and 11 countries).
-- [PriceHubble](https://www.pricehubble.com/) – Corporate site for PriceHubble products and use cases.
-- [IAZI – CIFI Hedonic Valuation](https://www.iazicifi.ch/en/software-solutions/hedonic-valuation/) – Hedonic valuation models for SFH, condos, and MFH, used by most Swiss banks; available as an API.
-- [Wüest Partner](https://www.wuestpartner.com/) – Corporate site for Wüest Partner products, indices, and consulting.
+- [IAZI – CIFI Hedonic Valuation](https://www.iazicifi.ch/en/software-solutions/hedonic-valuation/) – Hedonic valuation models for SFH, condos, and MFH, used by most Swiss banks; avai
 - [Wüest Partner – Online Services](https://www.wuest.io/) – Online platform for hedonic valuation, transaction price indices, and market data.
 - [FPRE – Fahrländer Partner Real Estate](https://en.fpre.ch/marktdaten/api/) – Market data, location analysis, hedonic models, and construction cost service via API.
-- [Datahouse](https://www.datahouse.ch/) – Real estate data analytics, models, and dashboards (Zurich-based).
 - [Novalytica](https://novalytica.com/en/real-estate-3/) – Swiss real estate market data, indicators, and forecasts via Excel add-in, API, or MarketAnalyzer.
 
 ### 2.3 Mortgage and Financing APIs
 
 - [UBS key4 Developer Portal](https://developer.ubs.com/key4) – Real-time indicative mortgage offer API from multiple Swiss financing providers.
 - [UBS Mortgage Offer API](https://developer.ubs.com/custom-product-page/mortgage-offer-api) – API reference for the key4 mortgage offer API.
-- [MoneyPark](https://moneypark.ch/) – Independent Swiss mortgage broker.
-- [Comparis Mortgages](https://en.comparis.ch/hypotheken/info) – Mortgage comparison platform.
 
 ### 2.4 Property Management Software (ERP) APIs
 
 - [GARAIO REM](https://www.garaio-rem.ch/) – Modern web-based property management software with documented interfaces (CRM, accounting, portfolio, workflow).
-- [Immopac](https://www.immopac.ch/en) – Cloud-based platform for direct/indirect real estate investment management and valuation.
+- [immopac](https://www.immopac.ch/en) – Cloud-based platform for direct/indirect real estate investment management and valuation.
 - [Abacus AbaImmo / AbaRealEstate](https://www.abacus.ch/en/industry-solutions/real-estate/property-management/overview) – Integrated Swiss property management module within the Abacus ERP suite.
-- [yavica FlexProperty](https://www.yavica.com/) – Microsoft Dynamics 365-based real estate ERP/CRM (FlexProperty), Loan Management, and Data Management.
 - [W&W Immo Informatik – ImmoTop2 / Rimo R5](https://www.wwimmo.ch/) – Established Swiss property management software for small to large administrations.
 - [Fairwalter](https://www.fairwalter.com/) – Cloud-based property management for private landlords and small administrations (W&W subsidiary).
 - [emonitor / MiMo](https://emonitor.ch/) – Digital rental application and tenant selection; API for ERP and marketing platforms.
@@ -144,15 +138,8 @@ This repository contains a curated list of Open Real Estate APIs, data sources, 
 
 ### 2.7 Construction Cost, Benchmarking, and Building Data
 
+- [pom+ Digital Real Estate Index (DRES Index)](https://www.digitalrealestate.ch/)) – Annual benchmark study on real estate digitalisation in Switzerland.
 - [CRB – Construction Standards](https://www.crb.ch/) – Standardised construction cost catalogues used across Swiss construction (BKP, eBKP-H, NPK).
-- [pom+ Digital Real Estate Index (DRES Index)](https://www.pom.ch/) – Annual benchmark study on real estate digitalisation in Switzerland.
-
-### 2.8 Crowdfunding and Tokenised Real Estate
-
-- [Crowdhouse](https://crowdhouse.com/) – Swiss real estate crowdinvesting platform.
-- [Foxstone](https://www.foxstone.ch/) – Swiss real estate crowdfunding platform (Romandie focus).
-- [Avobis](https://www.avobis.ch/) – Independent Swiss real estate and mortgage service provider; operates Property Captain platform.
-- [properti](https://www.properti.ch/) – Real estate platform combining experts and technology for transactions.
 
 ## 3. Contributing
 
