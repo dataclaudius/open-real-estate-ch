@@ -84,6 +84,10 @@ This repository contains a curated list of Open Real Estate APIs, data sources, 
 - [SRED – Swiss Real Estate Datapool](https://www.sred.ch/) – Datapool of Swiss real estate transactions for academic and applied research.
 - [REIDA – Real Estate Investment Data Association](https://www.reida.ch/) – Swiss non-profit benchmarking association; runs the CO₂-Benchmark and transaction database.
 
+### 1.9 Digital Benchmarks
+
+- [pom+ Digital Real Estate Index (DRE-i)](https://www.digitalrealestate.ch)
+
 ## 2. Other Relevant Real Estate APIs
 
 ### 2.1 Property Listing Portals (Marketplaces)
@@ -138,7 +142,7 @@ This repository contains a curated list of Open Real Estate APIs, data sources, 
 
 ### 2.7 Construction Cost, Benchmarking, and Building Data
 
-- [pom+ Digital Real Estate Index (DRES Index)](https://www.digitalrealestate.ch/)) – Annual benchmark study on real estate digitalisation in Switzerland.
+- [pom+ Digital Real Estate Index](https://www.digitalrealestate.ch/)) – Annual benchmark study on real estate digitalisation in Switzerland.
 - [CRB – Construction Standards](https://www.crb.ch/) – Standardised construction cost catalogues used across Swiss construction (BKP, eBKP-H, NPK).
 
 ## 3. Contributing
