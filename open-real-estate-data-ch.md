@@ -86,7 +86,7 @@ This repository contains a curated list of Open Real Estate APIs, data sources, 
 
 ### 1.9 Digital Benchmarks
 
-- [pom+ Digital Real Estate Index (DRE-i)](https://www.digitalrealestate.ch)
+- [pom+ Digital Real Estate Index (DRE-i)](https://www.digitalrealestate.ch) - Swiss PropTech platform, publisher of the Digital Real Estate Index (DRE-i) and host of the Digital Real Estate Summit.
 
 ## 2. Other Relevant Real Estate APIs
 
